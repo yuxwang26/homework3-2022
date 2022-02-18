@@ -78,7 +78,6 @@ nav a{
 nav li a:hover{
   text-decoration-line:underline;
   text-decoration-style: wavy;
-  text-decoration-color: yellow;
 }
 
 
@@ -150,7 +149,7 @@ img{
 
 .text{
   align-items: center;
-  max-height: 25%;
+  max-height: 25vh;
   overflow: scroll;
 }
 @media screen and (min-width: 700px){
