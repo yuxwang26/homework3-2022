@@ -109,8 +109,8 @@ nav li a:focus{
 
 /* Requirements 6-10 here: */
 .intro{
-  background-color: #DDDDDD;
   background-image: url("../images/header.jpg");
+  background-color: #707070;
   min-height: 400px;
   background-position: center;
   background-attachment: fixed;
@@ -168,6 +168,7 @@ img{
 
   
   /* Requirements 12-15 here: */
+  /*requirement 12*/
   a.skip:focus{
     position: absolute;
     left: 0px;
